@@ -1,0 +1,42 @@
+.displayH1 {
+    font-size: 300%;
+}
+.displayP {
+    margin-bottom: 20px;
+    width: fit-content;
+    font-size: 130%;
+}
+.displayOl {
+    margin: 0px 63px;
+}
+.displayUl {
+    margin: 0px 49px;
+}
+.displayUl {
+    list-style-type: none;
+}
+.displayLi1 {
+    font-size: 130%;
+}
+.displayLi1, .displayLi2, .displayLi3 {
+    margin-bottom: 20px;
+}
+.displayLi3 {
+    margin-top: 15px;
+}
+.displayLinkItem, .displayBlueLinkItem, .displayBlueLinkItemOl {
+    cursor: pointer;
+}
+.displayBlueLinkItem, .displayBlueLinkItemOl {
+    width: fit-content;
+    color: #0000EE;
+    text-decoration: underline;
+}
+.displayMainItem {
+    width: 700px;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}

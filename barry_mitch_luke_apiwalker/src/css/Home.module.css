@@ -1,0 +1,31 @@
+.homeH1 {
+    font-size: 300%;
+}
+.homeP {
+    margin-bottom: 20px;
+    width: fit-content;
+}
+.homeUl {
+    margin: 0px 20px;
+    list-style-type: none;
+}
+.homeLi {
+    margin-bottom: 20px;
+}
+.homeLinkItem, .homeBlueLinkItem {
+    font-size: 130%;
+    cursor: pointer;
+}
+.homeBlueLinkItem {
+    width: fit-content;
+    color: #0000EE;
+    text-decoration: underline;
+}
+.homeMainItem {
+    width: 700px;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}

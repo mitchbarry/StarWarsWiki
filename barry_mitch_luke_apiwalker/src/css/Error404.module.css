@@ -1,0 +1,28 @@
+.error404H2 {
+    font-size: 250%;
+    margin-bottom: 20px;
+}
+.error404MainItem {
+    width: 1100px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.error404BlueButton {
+    color: whitesmoke;
+    border-radius: 5px;
+    font-size: 130%;
+    font-weight: bold;
+    height: 40px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin: 20px 0px 20px 20px;
+    cursor: pointer;
+}
+.error404BlueButton {
+    background-color: #1C4EAA;
+}
